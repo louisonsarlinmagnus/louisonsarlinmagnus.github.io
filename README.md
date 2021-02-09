@@ -4,10 +4,10 @@ Gapençais de 23 ans passionné de **nature**, de **montagne** et d’**informat
 
 ## Mes formations
 
-- 2008 - 2015: Collège et Lycée à Saint-Joseph GAP.
+- 2008 - 2015: Collège et Lycée à Saint-Joseph GAP.  
 &emsp;&emsp;&emsp;Baccalauréat Scientifique option science de l'ingénieur  
-- 2015 - 2018: Classes préparatoire à L'ISEN Toulon
-- 2018 - 2021: Formation d'ingénieur par alternance à l'ISEN Toulon
+- 2015 - 2018: Classes préparatoire à L'ISEN Toulon  
+- 2018 - 2021: Formation d'ingénieur par alternance à l'ISEN Toulon  
 &emsp;&emsp;&emsp;Diplôme d'ingénieur en électronique et informatique industrielle
 
 ## Mes expériences
@@ -23,21 +23,74 @@ Gapençais de 23 ans passionné de **nature**, de **montagne** et d’**informat
     + Archivages et classement de dossiers
     + Assistances aux conseiller
 
+## Mes compétences
+
+<table>
+<thead>
+  <tr>
+    <th>Compétence<br></th>
+    <th>Technologie</th>
+    <th>Niveau</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Continuous Integration</td>
+    <td>Markdown<br>GitHub<br>GitHub workflows</td>
+    <td>Avancé<br></td>
+  </tr>
+  <tr>
+    <td>Continuous Developpement</td>
+    <td>AWS<br>Docker<br>Kubernetes<br>Sonar<br><br>Helm</td>
+    <td>Intermédiaire<br></td>
+  </tr>
+  <tr>
+    <td>Frameworks<br></td>
+    <td>Spring-Boot<br>ASP.NET<br></td>
+    <td>Intermédiaire</td>
+  </tr>
+  <tr>
+    <td>Base de donnée</td>
+    <td>MySQL<br>SQLite<br>SQL Server<br></td>
+    <td>Intermédiaire</td>
+  </tr>
+</tbody>
+</table>
+
+
+
 ## Mes Langages
 
-- Markdown (avancé)
-- GitHub, Git (avancé)
-- Python (avancé)
-- Java (confirmé)
-- C# (confirmé)
-- C/C++ (débutant)
-
-## Mes technologies
-
-- Spring-Boot (intermédiaire)
-- Docker (intermédiaire)
-- Kubernetes (débutant)
-- AWS (débutant)
+<table>
+<thead>
+  <tr>
+    <th>Langage</th>
+    <th>Niveau</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Markdown</td>
+    <td>Avancé</td>
+  </tr>
+  <tr>
+    <td>Java</td>
+    <td>Avancé</td>
+  </tr>
+  <tr>
+    <td>Python</td>
+    <td>Avancé</td>
+  </tr>
+  <tr>
+    <td>HTML</td>
+    <td>Intermédiaire</td>
+  </tr>
+  <tr>
+    <td>C#</td>
+    <td>Intermédiare<br></td>
+  </tr>
+</tbody>
+</table>
 
 ## Mes Soft-Skills
 
@@ -45,7 +98,10 @@ Gapençais de 23 ans passionné de **nature**, de **montagne** et d’**informat
     + Anglais (TOEIC: 940)
     + Italien (débutant)
 - Travail en équipe
+- Curieux
+- Autonome
 - Travail à distance
+
 
 ## Mes projets
 
@@ -60,7 +116,7 @@ Gapençais de 23 ans passionné de **nature**, de **montagne** et d’**informat
 - Projet GENAVIR: Conception et réalisation de modules de traitement de donnée en Python.
 - Projet Antivol: Antivol pour vélo/moto réalisé a base d'Arduino.
 
-## Mes licences et certifications
+## Mes certifications
 
 - Baccalauréat Scientifique (juil. 2015)
 - TOEIC (940) (déc. 2019)
