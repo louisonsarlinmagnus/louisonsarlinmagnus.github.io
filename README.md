@@ -1,5 +1,3 @@
-# <center>Louison SARLIN--MAGNUS</center>
-
 ## Qui suis-je
 
 &emsp;&emsp;Gapençais d'une vingtaine d'année passionnée de **nature**, de **montagne** et d’**informatique**.
