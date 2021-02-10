@@ -136,7 +136,9 @@
     >
 </center>
 
-***
+
+<hr>
+
  
 ## Mes projets
 
