@@ -8,10 +8,13 @@
         width="200"
     >
 </center>
-Je suis ingénieur informatique spécialisé dans le développement logiciel. Curieux, j'aime explorer des domaines très différent comme le travail du bois, l'impression 3D et la mécanique. Par le biais de petits projets j’apprends de nouvelles techniques mais j'apprends aussi a mieux me connaitre.  
+Je suis ingénieur informatique spécialisé dans le développement logiciel.  
+Curieux, j'aime explorer des domaines très différent comme le travail du bois, l'impression 3D et la mécanique.  
+Par le biais de petits projets j’apprends de nouvelles techniques mais j'apprends aussi a mieux me connaitre.  
 Je pratique entre autres la randonnée, la moto et la pêche.  
 <br>
-
+<br>
+<br>
 
 ## Mes formations
 
