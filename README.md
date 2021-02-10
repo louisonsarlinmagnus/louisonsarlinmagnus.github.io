@@ -25,6 +25,7 @@ Gapençais de 23 ans passionné de **nature**, de **montagne** et d’**informat
 
 ## Mes compétences
 
+<center>
 <table>
 <thead>
   <tr>
@@ -56,11 +57,12 @@ Gapençais de 23 ans passionné de **nature**, de **montagne** et d’**informat
   </tr>
 </tbody>
 </table>
-
+</center>
 
 
 ## Mes Langages
 
+<center>
 <table>
 <thead>
   <tr>
@@ -91,6 +93,7 @@ Gapençais de 23 ans passionné de **nature**, de **montagne** et d’**informat
   </tr>
 </tbody>
 </table>
+</center>
 
 ## Mes Soft-Skills
 
@@ -101,23 +104,50 @@ Gapençais de 23 ans passionné de **nature**, de **montagne** et d’**informat
 - Curieux
 - Autonome
 - Travail à distance
-
+- Rigoureux
+- Conscience de moi
 
 ## Mes projets
 
-### Projets persos
+### EzDVF
 
-- [EzDVF](https://github.com/louisonsarlinmagnus/EzDVF)
-- [Jeu de la Vie](https://github.com/louisonsarlinmagnus/Jeu-de-la-vie)
+EzDVF est un projet personnel réalisé avec Nicolas Mengozzi.
+Il s'agit d'une webapp développée en C# et en ASP.NET qui a pour but de faciliter l'accès à des données de valeurs financières. Pour le diagnostic et l'évaluation de la valeur d'un bien immobilier, le spécialiste analyse l'historique des achats et ventes du bien. Cette recherche se fait généralement un site du gouvernement très peu efficace et très lent. J'ai eu l'idée de mettre en place un webapp simplifiant l'accès à ces données en offrant la possibilité de les télécharger dans un fichier csv (ouvrable avec Excel par exemple).
+Cet outil est encore en développement.
 
-### Autres Projets
+Le code source est disponible [ici](https://github.com/louisonsarlinmagnus/EzDVF)
 
-- [Projet Spring-Boot](https://github.com/orgs/Projet-Spring-Boot)
-- Projet GENAVIR: Conception et réalisation de modules de traitement de donnée en Python.
+### Jeu de la Vie
+
+Ce projet avait pour seul but de me faire progresser en Python durant les heures perdues.
+Le Jeu de la vie est un automate cellulaire imaginé par John CONWAY. Ce programme écrit en Python permet de simuler le cycle de vie de cellules en jouant sur des règles simples.
+Le programme n'est pas forcément fonctionnel.
+
+Le code source est disponible [ici](https://github.com/louisonsarlinmagnus/Jeu-de-la-vie)
+
+### Projet Spring-Boot
+
+Il s'agit ici d'un projet étudiant faisant participer toute la promotion (16 étudiants) à un projet autour du Framwork Spring-Boot. Le but était de créer un agrégateur de réseaux sociaux. Ma contribution a principalement tourné autour de l'intégration (CI-CD, tests, validation) et au soutien aux équipes en retard.
+
+L'équipe est disponible [ici](https://github.com/orgs/Projet-Spring-Boot)
+
+### Projet Genavir
+
+Dans le cadre de ma formation d'ingénieur j'ai eu la chance d'avoir intégralement à ma charge mon projet de fin d'études. Il était donc de ma responsabilité de rédiger le cahier des charges, présenter les solutions techniques envisagables au client (interne), organiser le suivi du projet et réaliser en intégralité le projet. Le projet s'est donc orienté vers la conception et réalisation de modules de traitement de données en Python.
+
+### Autres projets
 - Projet Antivol: Antivol pour vélo/moto réalisé a base d'Arduino.
+- TurboNAS
+- Application android
+- Projet innovant
 
 ## Mes certifications
 
 - Baccalauréat Scientifique (juil. 2015)
 - TOEIC (940) (déc. 2019)
 - Projet Voltaire (mai 2016, 2021)
+
+## Mes passions
+
+Haut-Alpin d'origine je suis passionné depuis toujours de montagne et de nature. Toutes les activités touchant de près ou de loin à la montagne m'intéresse. Je pratique notamment le ski alpin, la randonnée, la pêche et le trail. J'affectionne particulièrement le calme et la sérénité qui y règne.
+Sportif depuis tout petit j'ai eu la chance de pouvoir expérimenter de nombreux sports comme le judo, la boxe, la natation et le football américain.
