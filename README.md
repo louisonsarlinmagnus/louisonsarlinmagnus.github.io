@@ -18,10 +18,10 @@ Gapençais de 23 ans passionné de **nature**, de **montagne** et d’**informat
     + Gestion de projet
     + Encadrement d’un stagiaire
     + Assistance informatique bureautique
-- Juillet 2015 & juillet 2016: Axillaire de vacance à la Société Générale Gap
+- Juillet 2015 & juillet 2016: Auxillaire de vacance à la Société Générale Gap
     + Réception de clients
     + Archivages et classement de dossiers
-    + Assistances aux conseiller
+    + Assistance aux conseiller
 
 ## Mes compétences
 
@@ -51,7 +51,7 @@ Gapençais de 23 ans passionné de **nature**, de **montagne** et d’**informat
     <td>Intermédiaire</td>
   </tr>
   <tr>
-    <td>Base de donnée</td>
+    <td>Base de données</td>
     <td>MySQL<br>SQLite<br>SQL Server<br></td>
     <td>Intermédiaire</td>
   </tr>
@@ -66,28 +66,34 @@ Gapençais de 23 ans passionné de **nature**, de **montagne** et d’**informat
 <table>
 <thead>
   <tr>
+    <th>Logo</th>
     <th>Langage</th>
     <th>Niveau</th>
   </tr>
 </thead>
 <tbody>
   <tr>
+    <td><center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png" alt="Markdown" width="40"></center></td>
     <td>Markdown</td>
     <td>Avancé</td>
   </tr>
   <tr>
+    <td><center><img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" alt="JAVA" width="40"></center></td>
     <td>Java</td>
     <td>Avancé</td>
   </tr>
   <tr>
+    <td><center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="Python" width="40"></center></td>
     <td>Python</td>
     <td>Avancé</td>
   </tr>
   <tr>
+        <td><center><img src="https://www.laboiteverte.fr/wp-content/uploads/2011/01/HTML5-Logo-officiel-w3.png" alt="Python" width="40"></center></td>
     <td>HTML</td>
     <td>Intermédiaire</td>
   </tr>
   <tr>
+    <td><center><img src="https://docs.microsoft.com/fr-fr/windows/images/csharp-logo.png" alt="C#" width="40"></center></td>
     <td>C#</td>
     <td>Intermédiare<br></td>
   </tr>
@@ -112,7 +118,7 @@ Gapençais de 23 ans passionné de **nature**, de **montagne** et d’**informat
 ### EzDVF
 
 EzDVF est un projet personnel réalisé avec Nicolas Mengozzi.
-Il s'agit d'une webapp développée en C# et en ASP.NET qui a pour but de faciliter l'accès à des données de valeurs financières. Pour le diagnostic et l'évaluation de la valeur d'un bien immobilier, le spécialiste analyse l'historique des achats et ventes du bien. Cette recherche se fait généralement un site du gouvernement très peu efficace et très lent. J'ai eu l'idée de mettre en place un webapp simplifiant l'accès à ces données en offrant la possibilité de les télécharger dans un fichier csv (ouvrable avec Excel par exemple).
+Il s'agit d'une webapp développée en C# et en ASP.NET qui a pour but de faciliter l'accès à des données de valeurs financières. Pour le diagnostic et l'évaluation de la valeur d'un bien immobilier, le spécialiste analyse l'historique des achats et ventes du bien. Cette recherche se fait généralement sur un site du gouvernement très peu efficace et très lent. J'ai eu l'idée de mettre en place un webapp simplifiant l'accès à ces données en offrant la possibilité de les télécharger dans un fichier csv (ouvrable avec Excel par exemple).
 Cet outil est encore en développement.
 
 Le code source est disponible [ici](https://github.com/louisonsarlinmagnus/EzDVF)
@@ -127,16 +133,16 @@ Le code source est disponible [ici](https://github.com/louisonsarlinmagnus/Jeu-d
 
 ### Projet Spring-Boot
 
-Il s'agit ici d'un projet étudiant faisant participer toute la promotion (16 étudiants) à un projet autour du Framwork Spring-Boot. Le but était de créer un agrégateur de réseaux sociaux. Ma contribution a principalement tourné autour de l'intégration (CI-CD, tests, validation) et au soutien aux équipes en retard.
+Il s'agit ici d'un projet étudiant faisant participer toute la promotion (16 étudiants) à un projet autour du Framwork Spring-Boot. Le but était de créer un agrégateur de réseaux sociaux. Ma contribution a principalement tourné autour de l'intégration (CI-CD, tests, validation) et du soutien aux équipes en retard.
 
 L'équipe est disponible [ici](https://github.com/orgs/Projet-Spring-Boot)
 
 ### Projet Genavir
 
-Dans le cadre de ma formation d'ingénieur j'ai eu la chance d'avoir intégralement à ma charge mon projet de fin d'études. Il était donc de ma responsabilité de rédiger le cahier des charges, présenter les solutions techniques envisagables au client (interne), organiser le suivi du projet et réaliser en intégralité le projet. Le projet s'est donc orienté vers la conception et réalisation de modules de traitement de données en Python.
+Dans le cadre de ma formation d'ingénieur, j'ai eu la chance d'avoir intégralement à ma charge mon projet de fin d'études. Il était donc de ma responsabilité de rédiger le cahier des charges, présenter les solutions techniques envisageables au client (interne), d'organiser le suivi du projet et de réaliser en intégralité le projet. Le projet s'est donc orienté vers la conception et réalisation de modules de traitement de données en Python.
 
 ### Autres projets
-- Projet Antivol: Antivol pour vélo/moto réalisé a base d'Arduino.
+- Projet Antivol: Antivol pour vélo/moto réalisé à base d'Arduino.
 - TurboNAS
 - Application android
 - Projet innovant
@@ -149,5 +155,5 @@ Dans le cadre de ma formation d'ingénieur j'ai eu la chance d'avoir intégralem
 
 ## Mes passions
 
-Haut-Alpin d'origine je suis passionné depuis toujours de montagne et de nature. Toutes les activités touchant de près ou de loin à la montagne m'intéresse. Je pratique notamment le ski alpin, la randonnée, la pêche et le trail. J'affectionne particulièrement le calme et la sérénité qui y règne.
-Sportif depuis tout petit j'ai eu la chance de pouvoir expérimenter de nombreux sports comme le judo, la boxe, la natation et le football américain.
+Haut-Alpin d'origine, je suis passionné depuis toujours de montagne et de nature. Toutes les activités touchant de près ou de loin à la montagne m'intéressent. Je pratique notamment le ski alpin, la randonnée, la pêche et le trail. J'affectionne particulièrement le calme et la sérénité qui y règnent.
+Sportif depuis tout petit, j'ai eu la chance de pouvoir expérimenter de nombreux sports comme le judo, la boxe, la natation et le football américain.
