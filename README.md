@@ -1,20 +1,21 @@
 # Qui suis-je
 
-<center>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <div>
+        <p style="margin-right: 10%;text-align:justify">
+            Je suis ingénieur informatique spécialisé dans le développement logiciel.  
+            Curieux, j'aime explorer des domaines très différent comme le travail du bois, l'impression 3D et la mécanique.  
+            Par le biais de petits projets j’apprends de nouvelles techniques mais j'apprends aussi a mieux me connaitre.  
+            Je pratique entre autres la randonnée, la moto et la pêche.  
+        </p>
+    </div>
     <img src="https://i.imgur.com/Ddf7G9t.jpg?1"
-         style="float: right;"
+        style="float: right;"
         alt="Portrait"
         title="Louison SARLIN--MAGNUS avec 15 kilos en trop"
-        width="200"
-    >
-</center>
-Je suis ingénieur informatique spécialisé dans le développement logiciel.  
-Curieux, j'aime explorer des domaines très différent comme le travail du bois, l'impression 3D et la mécanique.  
-Par le biais de petits projets j’apprends de nouvelles techniques mais j'apprends aussi a mieux me connaitre.  
-Je pratique entre autres la randonnée, la moto et la pêche.  
-<br>
-<br>
-<br>
+        width="200">
+</div>
+
 
 ## Mes formations
 
