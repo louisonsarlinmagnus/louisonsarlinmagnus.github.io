@@ -1,14 +1,17 @@
 # Qui suis-je
 
 <center>
-    <img src="https://i.imgur.com/s3AQ08k.jpg?1"
+    <img src="https://i.imgur.com/Ddf7G9t.jpg?1"
          style="float: right;"
         alt="Portrait"
-        title="Louison SARLIN--MAGNUS"
-        width="300"
+        title="Louison SARLIN--MAGNUS avec 15 kilos en trop"
+        width="200"
     >
 </center>
-Gapençais de 23 ans passionné de **nature**, de **montagne** et d’**informatique**.
+Je suis ingénieur informatique spécialisé dans le développement logiciel. Curieux, j'aime explorer des domaines très différent comme le travail du bois, l'impression 3D et la mécanique. Par le biais de petits projets j’apprends de nouvelles techniques mais j'apprends aussi a mieux me connaitre.  
+Je pratique entre autres la randonnée, la moto et la pêche.  
+<br>
+
 
 ## Mes formations
 
