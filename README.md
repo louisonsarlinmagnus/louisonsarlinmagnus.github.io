@@ -48,7 +48,7 @@
     <img src="https://i.imgur.com/iK8tAiO.jpg"
          style="float: right;"
         alt="panorama"
-        title="Lac de l'Ascension, la Roche de Rame"
+        title="Lac de Serre-Ponçon vu depuis la station de Réallon"
     >
 </div>
 </center>
