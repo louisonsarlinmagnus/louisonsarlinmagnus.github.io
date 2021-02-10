@@ -132,7 +132,7 @@
     <img src="https://i.imgur.com/UznVCq4.jpg"
          style="float: right;"
         alt="panorama"
-        title="L'Olan dans les nuages (photo prise au dessus de la Chapelle en Valgaudemar"
+        title="L'Olan dans les nuages (photo prise au dessus de la Chapelle en Valgaudemar)"
     >
 </center>
 
