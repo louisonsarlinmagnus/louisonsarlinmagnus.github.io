@@ -1,5 +1,5 @@
 # Qui suis-je
-![Placeholder]https://i.imgur.com/s3AQ08k.jpg?1){: align=right }
+![Placeholder](https://i.imgur.com/s3AQ08k.jpg?1=150x){: align=right }
 Gapençais de 23 ans passionné de **nature**, de **montagne** et d’**informatique**.
 
 ## Mes formations
