@@ -4,8 +4,8 @@
     <img src="https://i.imgur.com/s3AQ08k.jpg?1"
          style="float: right;"
         alt="Portrait"
-        title="Portrait"
-        width="100"
+        title="Louison SARLIN--MAGNUS"
+        width="300"
     >
 </center>
 Gapençais de 23 ans passionné de **nature**, de **montagne** et d’**informatique**.
@@ -125,7 +125,7 @@ Gapençais de 23 ans passionné de **nature**, de **montagne** et d’**informat
     <img src="https://i.imgur.com/UznVCq4.jpg"
          style="float: right;"
         alt="panorama"
-        title="Le texte en infobulle"
+        title="L'Olan dans les nuages (photo prise au dessus de la Chapelle en Valgaudemar"
     >
 </center>
 
@@ -187,6 +187,6 @@ Sportif depuis tout petit, j'ai eu la chance de pouvoir expérimenter de nombreu
     <img src="https://i.imgur.com/MMNq55s.jpg"
          style="float: right;"
         alt="panorama"
-        title="Le texte en infobulle"
+        title="Lac de l'Ascension, la Roche de Rame"
     >
 </center>
