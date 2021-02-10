@@ -1,9 +1,8 @@
-# Qui suis-je
-
+<h1>Qui suis-je</h1>
 <div style="display: flex; justify-content: center; align-items: center;">
     <div>
         <p style="margin-right: 10%;text-align:justify">
-            Je suis ingénieur informatique spécialisé dans le développement logiciel.  
+            Je suis ingénieur informaticien spécialisé dans le développement logiciel.  
             Curieux, j'aime explorer des domaines très différent comme le travail du bois, l'impression 3D et la mécanique.  
             Par le biais de petits projets j’apprends de nouvelles techniques mais j'apprends aussi a mieux me connaitre.  
             Je pratique entre autres la randonnée, la moto et la pêche.  
@@ -13,11 +12,12 @@
         style="float: right;"
         alt="Portrait"
         title="Louison SARLIN--MAGNUS avec 15 kilos en trop"
-        width="200">
+        width="150"
+    >
 </div>
 
 
-## Mes formations
+# Mes formations
 
 - 2008 - 2015: Collège et Lycée à Saint-Joseph GAP.  
 &emsp;&emsp;&emsp;Baccalauréat Scientifique option science de l'ingénieur  
@@ -25,20 +25,37 @@
 - 2018 - 2021: Formation d'ingénieur par alternance à l'ISEN Toulon  
 &emsp;&emsp;&emsp;Diplôme d'ingénieur en électronique et informatique industrielle
 
-## Mes expériences
+# Mes expériences
 
-- 2018 - 2021: Ingénieur par alternance à GENAVIR La Seyne sur Mer
-    + Développement de modules de traitement de données en Python.
+- 2018 - 2021: Ingénieur apprenti à GENAVIR, La Seyne sur Mer
+    + Développement de modules de traitement de données en Python
     + Entretien et évolution d’outils logiciels en JAVA
     + Gestion de projet
-    + Encadrement d’un stagiaire
+    + Encadrement d’un stagiaire de DUT
     + Assistance informatique bureautique
+<br>
+<br>
 - Juillet 2015 & juillet 2016: Auxillaire de vacance à la Société Générale Gap
     + Réception de clients
     + Archivages et classement de dossiers
-    + Assistance aux conseiller
+    + Assistance aux conseillers
+<br>
 
-## Mes compétences
+<br>
+<hr>
+<center>
+<div style="display: flex;">
+    <img src="https://i.imgur.com/iK8tAiO.jpg"
+         style="float: right;"
+        alt="panorama"
+        title="Lac de l'Ascension, la Roche de Rame"
+    >
+</div>
+</center>
+<hr>
+<br>
+
+# Mes compétences
 
 <center>
 <table>
@@ -57,8 +74,13 @@
   </tr>
   <tr>
     <td>Continuous Developpement</td>
-    <td>AWS<br>Docker<br>Kubernetes<br>Sonar<br><br>Helm</td>
+    <td>AWS<br>Docker<br>Kubernetes<br>Sonar<br>Helm</td>
     <td>Intermédiaire<br></td>
+  </tr>
+  <tr>
+    <td>Rédaction de documentation</td>
+    <td>Markdown<br>GitHub<br>GitHub Pages</td>
+    <td>Avancé<br></td>
   </tr>
   <tr>
     <td>Frameworks<br></td>
@@ -74,49 +96,59 @@
 </table>
 </center>
 
+<br>
+<br>
 
-## Mes Langages
+# Mes Langages
 
 <center>
 <table>
 <thead>
-  <tr>
-    <th>Logo</th>
-    <th>Langage</th>
-    <th>Niveau</th>
-  </tr>
+    <tr>
+        <th>Logo</th>
+        <th>Langage</th>
+        <th>Niveau</th>
+    </tr>
 </thead>
 <tbody>
-  <tr>
-    <td><center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png" alt="Markdown" width="40"></center></td>
-    <td>Markdown</td>
-    <td>Avancé</td>
-  </tr>
-  <tr>
-    <td><center><img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" alt="JAVA" width="40"></center></td>
-    <td>Java</td>
-    <td>Avancé</td>
-  </tr>
-  <tr>
-    <td><center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="Python" width="40"></center></td>
-    <td>Python</td>
-    <td>Avancé</td>
-  </tr>
-  <tr>
+    <tr>
+        <td><center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png" alt="Markdown" width="40"></center></td>
+        <td>Markdown</td>
+        <td>Avancé</td>
+    </tr>
+    <tr>
+        <td><center><img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" alt="JAVA" width="30"></center></td>
+        <td>Java</td>
+        <td>Avancé</td>
+    </tr>
+    <tr>
+        <td><center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="Python" width="30"></center></td>
+        <td>Python</td>
+        <td>Avancé</td>
+    </tr>
+    <tr>
         <td><center><img src="https://www.laboiteverte.fr/wp-content/uploads/2011/01/HTML5-Logo-officiel-w3.png" alt="Python" width="40"></center></td>
-    <td>HTML</td>
-    <td>Intermédiaire</td>
-  </tr>
-  <tr>
-    <td><center><img src="https://docs.microsoft.com/fr-fr/windows/images/csharp-logo.png" alt="C#" width="40"></center></td>
-    <td>C#</td>
-    <td>Intermédiare<br></td>
-  </tr>
+        <td>HTML</td>
+        <td>Intermédiaire</td>
+    </tr>
+    <tr>
+        <td><center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" alt="C#" width="30"></center></td>
+        <td>C#</td>
+        <td>Intermédiare<br></td>
+    </tr>
+    <tr>
+        <td><center><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C#" width="30"></center></td>
+        <td>C/C++</td>
+        <td>Débutant<br></td>
+    </tr>
 </tbody>
 </table>
 </center>
 
-## Mes Soft-Skills
+<br>
+<br>
+
+# Mes Soft-Skills
 
 - Communication
     + Anglais (TOEIC: 940)
@@ -128,6 +160,10 @@
 - Rigoureux
 - Conscience de moi
 
+<br>
+<hr>
+
+<div style="display: flex;">
 <center>
     <img src="https://i.imgur.com/UznVCq4.jpg"
          style="float: right;"
@@ -135,14 +171,14 @@
         title="L'Olan dans les nuages (photo prise au dessus de la Chapelle en Valgaudemar)"
     >
 </center>
-
+</div>
 
 <hr>
-
+<br>
  
-## Mes projets
+# Mes projets
 
-### EzDVF
+## EzDVF
 
 EzDVF est un projet personnel réalisé avec Nicolas Mengozzi.
 Il s'agit d'une webapp développée en C# et en ASP.NET qui a pour but de faciliter l'accès à des données de valeurs financières. Pour le diagnostic et l'évaluation de la valeur d'un bien immobilier, le spécialiste analyse l'historique des achats et ventes du bien.
@@ -150,8 +186,10 @@ Cette recherche se fait généralement sur un site du gouvernement très peu eff
 Cet outil est encore en développement.
 
 Le code source est disponible [ici](https://github.com/louisonsarlinmagnus/EzDVF)
+<br>
+<br>
 
-### Jeu de la Vie
+## Jeu de la Vie
 
 Ce projet avait pour seul but de me faire progresser en Python durant les heures perdues.
 Le Jeu de la vie est un automate cellulaire imaginé par John CONWAY.
@@ -159,45 +197,59 @@ Ce programme écrit en Python permet de simuler le cycle de vie de cellules en j
 Le programme n'est pas forcément fonctionnel.
 
 Le code source est disponible [ici](https://github.com/louisonsarlinmagnus/Jeu-de-la-vie)
+<br>
+<br>
 
-### Projet Spring-Boot
+## Projet Spring-Boot
 
 Il s'agit ici d'un projet étudiant faisant participer toute la promotion (16 étudiants) à un projet autour du Framwork Spring-Boot. Le but était de créer un agrégateur de réseaux sociaux.
 Ma contribution a principalement tourné autour de l'intégration (CI-CD, tests, validation) et du soutien aux équipes en retard.
 
 L'équipe est disponible [ici](https://github.com/orgs/Projet-Spring-Boot)
+<br>
+<br>
 
-### Projet Genavir
+## Projet Genavir
 
 Dans le cadre de ma formation d'ingénieur, j'ai eu la chance d'avoir intégralement à ma charge mon projet de fin d'études. Il était donc de ma responsabilité de rédiger le cahier des charges, présenter les solutions techniques envisageables au client (interne), d'organiser le suivi du projet et de réaliser en intégralité le projet.
 Le projet s'est donc orienté vers la conception et réalisation de modules de traitement de données en Python.
+<br>
+<br>
 
-### Applications mobiles
+## Applications mobiles
 
+<br>
+<br>
 
-### Projet innovant
+## Projet innovant
 
+<br>
+<br>
 
-### Autres projets
+## Autres projets
 - Projet Antivol: Antivol pour vélo/moto réalisé à base d'Arduino.
 - NAS: Mise en service d'un serveur de partage multimédia (Plex) ainsi qu'un cloud pour fichiers persos (Nextcloud)
 
-## Mes certifications
+# Mes certifications
 
 - Baccalauréat Scientifique (juil. 2015)
 - TOEIC (940) (déc. 2019)
 - Projet Voltaire (mai 2016, 2021)
 
-## Mes passions
+# Mes passions
 
 Haut-Alpin d'origine, je suis passionné depuis toujours de montagne et de nature. Toutes les activités touchant de près ou de loin à la montagne m'intéressent. Je pratique notamment le ski alpin, la randonnée, la pêche et le trail.
 J'affectionne particulièrement le calme et la sérénité qui y règnent.
 Sportif depuis tout petit, j'ai eu la chance de pouvoir expérimenter de nombreux sports comme le judo, la boxe, la natation et le football américain.
 
+<br>
+<hr>
 <center>
+<div style="display: flex;">
     <img src="https://i.imgur.com/MMNq55s.jpg"
          style="float: right;"
         alt="panorama"
         title="Lac de l'Ascension, la Roche de Rame"
     >
+</div>
 </center>
