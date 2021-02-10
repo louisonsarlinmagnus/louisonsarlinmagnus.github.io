@@ -1,5 +1,13 @@
 # Qui suis-je
-![Placeholder](https://i.imgur.com/s3AQ08k.jpg?1=150x){: align=right }
+
+<center>
+    <img src="https://i.imgur.com/s3AQ08k.jpg?1"
+         style="float: right;"
+        alt="Portrait"
+        title="Portrait"
+        width="100"
+    >
+</center>
 Gapençais de 23 ans passionné de **nature**, de **montagne** et d’**informatique**.
 
 ## Mes formations
@@ -114,7 +122,11 @@ Gapençais de 23 ans passionné de **nature**, de **montagne** et d’**informat
 - Conscience de moi
 
 <center>
-    <img src="https://i.imgur.com/UznVCq4.jpg" alt="panorama">
+    <img src="https://i.imgur.com/UznVCq4.jpg"
+         style="float: right;"
+        alt="panorama"
+        title="Le texte en infobulle"
+    >
 </center>
 
 ## Mes projets
@@ -172,5 +184,9 @@ J'affectionne particulièrement le calme et la sérénité qui y règnent.
 Sportif depuis tout petit, j'ai eu la chance de pouvoir expérimenter de nombreux sports comme le judo, la boxe, la natation et le football américain.
 
 <center>
-    <img src="https://i.imgur.com/MMNq55s.jpg" alt="panorama">
+    <img src="https://i.imgur.com/MMNq55s.jpg"
+         style="float: right;"
+        alt="panorama"
+        title="Le texte en infobulle"
+    >
 </center>
