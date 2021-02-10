@@ -1,5 +1,5 @@
 # Qui suis-je
-
+![Placeholder]https://i.imgur.com/s3AQ08k.jpg?1){: align=right }
 Gapençais de 23 ans passionné de **nature**, de **montagne** et d’**informatique**.
 
 ## Mes formations
@@ -113,12 +113,17 @@ Gapençais de 23 ans passionné de **nature**, de **montagne** et d’**informat
 - Rigoureux
 - Conscience de moi
 
+<center>
+    <img src="https://i.imgur.com/UznVCq4.jpg" alt="panorama">
+</center>
+
 ## Mes projets
 
 ### EzDVF
 
 EzDVF est un projet personnel réalisé avec Nicolas Mengozzi.
-Il s'agit d'une webapp développée en C# et en ASP.NET qui a pour but de faciliter l'accès à des données de valeurs financières. Pour le diagnostic et l'évaluation de la valeur d'un bien immobilier, le spécialiste analyse l'historique des achats et ventes du bien. Cette recherche se fait généralement sur un site du gouvernement très peu efficace et très lent. J'ai eu l'idée de mettre en place un webapp simplifiant l'accès à ces données en offrant la possibilité de les télécharger dans un fichier csv (ouvrable avec Excel par exemple).
+Il s'agit d'une webapp développée en C# et en ASP.NET qui a pour but de faciliter l'accès à des données de valeurs financières. Pour le diagnostic et l'évaluation de la valeur d'un bien immobilier, le spécialiste analyse l'historique des achats et ventes du bien.
+Cette recherche se fait généralement sur un site du gouvernement très peu efficace et très lent. J'ai eu l'idée de mettre en place un webapp simplifiant l'accès à ces données en offrant la possibilité de les télécharger dans un fichier csv (ouvrable avec Excel par exemple).
 Cet outil est encore en développement.
 
 Le code source est disponible [ici](https://github.com/louisonsarlinmagnus/EzDVF)
@@ -126,26 +131,33 @@ Le code source est disponible [ici](https://github.com/louisonsarlinmagnus/EzDVF
 ### Jeu de la Vie
 
 Ce projet avait pour seul but de me faire progresser en Python durant les heures perdues.
-Le Jeu de la vie est un automate cellulaire imaginé par John CONWAY. Ce programme écrit en Python permet de simuler le cycle de vie de cellules en jouant sur des règles simples.
+Le Jeu de la vie est un automate cellulaire imaginé par John CONWAY.
+Ce programme écrit en Python permet de simuler le cycle de vie de cellules en jouant sur des règles simples.
 Le programme n'est pas forcément fonctionnel.
 
 Le code source est disponible [ici](https://github.com/louisonsarlinmagnus/Jeu-de-la-vie)
 
 ### Projet Spring-Boot
 
-Il s'agit ici d'un projet étudiant faisant participer toute la promotion (16 étudiants) à un projet autour du Framwork Spring-Boot. Le but était de créer un agrégateur de réseaux sociaux. Ma contribution a principalement tourné autour de l'intégration (CI-CD, tests, validation) et du soutien aux équipes en retard.
+Il s'agit ici d'un projet étudiant faisant participer toute la promotion (16 étudiants) à un projet autour du Framwork Spring-Boot. Le but était de créer un agrégateur de réseaux sociaux.
+Ma contribution a principalement tourné autour de l'intégration (CI-CD, tests, validation) et du soutien aux équipes en retard.
 
 L'équipe est disponible [ici](https://github.com/orgs/Projet-Spring-Boot)
 
 ### Projet Genavir
 
-Dans le cadre de ma formation d'ingénieur, j'ai eu la chance d'avoir intégralement à ma charge mon projet de fin d'études. Il était donc de ma responsabilité de rédiger le cahier des charges, présenter les solutions techniques envisageables au client (interne), d'organiser le suivi du projet et de réaliser en intégralité le projet. Le projet s'est donc orienté vers la conception et réalisation de modules de traitement de données en Python.
+Dans le cadre de ma formation d'ingénieur, j'ai eu la chance d'avoir intégralement à ma charge mon projet de fin d'études. Il était donc de ma responsabilité de rédiger le cahier des charges, présenter les solutions techniques envisageables au client (interne), d'organiser le suivi du projet et de réaliser en intégralité le projet.
+Le projet s'est donc orienté vers la conception et réalisation de modules de traitement de données en Python.
+
+### Applications mobiles
+
+
+### Projet innovant
+
 
 ### Autres projets
 - Projet Antivol: Antivol pour vélo/moto réalisé à base d'Arduino.
-- TurboNAS
-- Application android
-- Projet innovant
+- NAS: Mise en service d'un serveur de partage multimédia (Plex) ainsi qu'un cloud pour fichiers persos (Nextcloud)
 
 ## Mes certifications
 
@@ -155,5 +167,10 @@ Dans le cadre de ma formation d'ingénieur, j'ai eu la chance d'avoir intégrale
 
 ## Mes passions
 
-Haut-Alpin d'origine, je suis passionné depuis toujours de montagne et de nature. Toutes les activités touchant de près ou de loin à la montagne m'intéressent. Je pratique notamment le ski alpin, la randonnée, la pêche et le trail. J'affectionne particulièrement le calme et la sérénité qui y règnent.
+Haut-Alpin d'origine, je suis passionné depuis toujours de montagne et de nature. Toutes les activités touchant de près ou de loin à la montagne m'intéressent. Je pratique notamment le ski alpin, la randonnée, la pêche et le trail.
+J'affectionne particulièrement le calme et la sérénité qui y règnent.
 Sportif depuis tout petit, j'ai eu la chance de pouvoir expérimenter de nombreux sports comme le judo, la boxe, la natation et le football américain.
+
+<center>
+    <img src="https://i.imgur.com/MMNq55s.jpg" alt="panorama">
+</center>
