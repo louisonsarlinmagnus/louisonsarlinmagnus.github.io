@@ -181,7 +181,7 @@
 ## EzDVF
 
 EzDVF est un projet personnel réalisé avec Nicolas Mengozzi.
-Il s'agit d'une webapp développée en C# et en ASP.NET qui a pour but de faciliter l'accès à des données de valeurs financières. Pour le diagnostic et l'évaluation de la valeur d'un bien immobilier, le spécialiste analyse l'historique des achats et ventes du bien.
+Il s'agit d'une webapp développée en C# grâce à ASP.NET qui a pour but de faciliter l'accès à des données de valeurs financières. Pour le diagnostic et l'évaluation de la valeur d'un bien immobilier, le spécialiste analyse l'historique des achats et ventes du bien.
 Cette recherche se fait généralement sur un site du gouvernement très peu efficace et très lent. J'ai eu l'idée de mettre en place un webapp simplifiant l'accès à ces données en offrant la possibilité de les télécharger dans un fichier csv (ouvrable avec Excel par exemple).
 Cet outil est encore en développement.
 
@@ -218,6 +218,8 @@ Le projet s'est donc orienté vers la conception et réalisation de modules de t
 
 ## Applications mobiles
 
+J'ai développé pour mon propre besoin une application mobile Android. Cette application permet de créer une ambiance sonore en superposant des sons naturels (vent, pluie, chants d'oiseaux, orage, etc.).
+
 <br>
 <br>
 
@@ -229,6 +231,18 @@ Le projet s'est donc orienté vers la conception et réalisation de modules de t
 ## Autres projets
 - Projet Antivol: Antivol pour vélo/moto réalisé à base d'Arduino.
 - NAS: Mise en service d'un serveur de partage multimédia (Plex) ainsi qu'un cloud pour fichiers persos (Nextcloud)
+
+<hr>
+<center>
+<div style="display: flex;">
+    <img src="https://i.imgur.com/MMNq55s.jpg"
+         style="float: right;"
+        alt="panorama"
+        title="Lac de l'Ascension, la Roche de Rame"
+    >
+</div>
+</center>
+<hr>
 
 # Mes certifications
 
@@ -243,13 +257,3 @@ J'affectionne particulièrement le calme et la sérénité qui y règnent.
 Sportif depuis tout petit, j'ai eu la chance de pouvoir expérimenter de nombreux sports comme le judo, la boxe, la natation et le football américain.
 
 <br>
-<hr>
-<center>
-<div style="display: flex;">
-    <img src="https://i.imgur.com/MMNq55s.jpg"
-         style="float: right;"
-        alt="panorama"
-        title="Lac de l'Ascension, la Roche de Rame"
-    >
-</div>
-</center>
