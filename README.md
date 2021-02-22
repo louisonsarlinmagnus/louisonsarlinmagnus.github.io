@@ -20,10 +20,10 @@
 # Mes formations
 
 - 2008 - 2015: Collège et Lycée à Saint-Joseph GAP.  
-&emsp;&emsp;&emsp;Baccalauréat Scientifique option science de l'ingénieur  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Baccalauréat Scientifique option science de l'ingénieur  
 - 2015 - 2018: Classes préparatoire à L'ISEN Toulon  
 - 2018 - 2021: Formation d'ingénieur par alternance à l'ISEN Toulon  
-&emsp;&emsp;&emsp;Diplôme d'ingénieur en électronique et informatique industrielle
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Diplôme d'ingénieur en électronique et informatique industrielle
 
 # Mes expériences
 
@@ -111,11 +111,6 @@
     </tr>
 </thead>
 <tbody>
-    <tr>
-        <td><center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png" alt="Markdown" width="40"></center></td>
-        <td>Markdown</td>
-        <td>Avancé</td>
-    </tr>
     <tr>
         <td><center><img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" alt="JAVA" width="30"></center></td>
         <td>Java</td>
