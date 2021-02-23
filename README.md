@@ -3,9 +3,9 @@
     <div>
         <p style="margin-right: 10%;text-align:justify">
             Je suis ingénieur informaticien spécialisé dans le développement logiciel.  
-            Curieux, j'aime explorer des domaines très différent comme le travail du bois, l'impression 3D et la mécanique.  
-            Par le biais de petits projets j’apprends de nouvelles techniques mais j'apprends aussi a mieux me connaitre.  
-            Je pratique entre autres la randonnée, la moto et la pêche.  
+            Curieux, j'aime explorer des domaines très différents comme le travail du bois, l'impression 3D et la mécanique.  
+            Par le biais de petits projets, j’apprends de nouvelles techniques et aussi à mieux me connaitre.<br>
+            Je pratique entre autre la randonnée, la moto et la pêche.  
         </p>
     </div>
     <img src="https://i.imgur.com/Ddf7G9t.jpg?1"
@@ -19,25 +19,25 @@
 
 # Mes formations
 
-- 2008 - 2015: Collège et Lycée à Saint-Joseph GAP.  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Baccalauréat Scientifique option science de l'ingénieur  
-- 2015 - 2018: Classes préparatoire à L'ISEN Toulon  
+- 2008 - 2015: Collège et Lycée Saint-Joseph à GAP.  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Baccalauréat Scientifique option sciences de l'ingénieur  
+- 2015 - 2018: Classes préparatoires à L'ISEN Toulon  
 - 2018 - 2021: Formation d'ingénieur par alternance à l'ISEN Toulon  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Diplôme d'ingénieur en électronique et informatique industrielle
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Diplôme d'ingénieur en électronique et informatique industrielles
 
 # Mes expériences
 
 - 2018 - 2021: Ingénieur apprenti à GENAVIR, La Seyne sur Mer
-    + Développement de modules de traitement de données en Python
+    + Développement de modules de traitements de données en Python
     + Entretien et évolution d’outils logiciels en JAVA
     + Gestion de projet
     + Encadrement d’un stagiaire de DUT
     + Assistance informatique bureautique
 <br>
 <br>
-- Juillet 2015 & juillet 2016: Auxillaire de vacance à la Société Générale Gap
+- Juillet 2015 & juillet 2016: Auxillaire de vacances à la Société Générale Gap
     + Réception de clients
-    + Archivages et classement de dossiers
+    + Archivages et classements de dossiers
     + Assistance aux conseillers
 <br>
 
@@ -175,46 +175,52 @@
 
 ## EzDVF
 
+<p style='text-align: justify;'>
 EzDVF est un projet personnel réalisé avec Nicolas Mengozzi.
 Il s'agit d'une webapp développée en C# grâce à ASP.NET qui a pour but de faciliter l'accès à des données de valeurs financières. Pour le diagnostic et l'évaluation de la valeur d'un bien immobilier, le spécialiste analyse l'historique des achats et ventes du bien.
 Cette recherche se fait généralement sur un site du gouvernement très peu efficace et très lent. J'ai eu l'idée de mettre en place un webapp simplifiant l'accès à ces données en offrant la possibilité de les télécharger dans un fichier csv (ouvrable avec Excel par exemple).
 Cet outil est encore en développement.
-
-Le code source est disponible [ici](https://github.com/louisonsarlinmagnus/EzDVF)
+</p>
+Le code source est disponible [ici.](https://github.com/louisonsarlinmagnus/EzDVF)
 <br>
 <br>
 
 ## Jeu de la Vie
 
+<p style='text-align: justify;'>
 Ce projet avait pour seul but de me faire progresser en Python durant les heures perdues.
 Le Jeu de la vie est un automate cellulaire imaginé par John CONWAY.
 Ce programme écrit en Python permet de simuler le cycle de vie de cellules en jouant sur des règles simples.
 Le programme n'est pas forcément fonctionnel.
-
-Le code source est disponible [ici](https://github.com/louisonsarlinmagnus/Jeu-de-la-vie)
+</p>
+Le code source est disponible [ici.](https://github.com/louisonsarlinmagnus/Jeu-de-la-vie)
 <br>
 <br>
 
 ## Projet Spring-Boot
 
+<p style='text-align: justify;'>
 Il s'agit ici d'un projet étudiant faisant participer toute la promotion (16 étudiants) à un projet autour du Framwork Spring-Boot. Le but était de créer un agrégateur de réseaux sociaux.
 Ma contribution a principalement tourné autour de l'intégration (CI-CD, tests, validation) et du soutien aux équipes en retard.
-
-L'équipe est disponible [ici](https://github.com/orgs/Projet-Spring-Boot)
+</p>
+L'équipe est disponible [ici.](https://github.com/orgs/Projet-Spring-Boot)
 <br>
 <br>
 
 ## Projet Genavir
 
+<p style='text-align: justify;'>
 Dans le cadre de ma formation d'ingénieur, j'ai eu la chance d'avoir intégralement à ma charge mon projet de fin d'études. Il était donc de ma responsabilité de rédiger le cahier des charges, présenter les solutions techniques envisageables au client (interne), d'organiser le suivi du projet et de réaliser en intégralité le projet.
-Le projet s'est donc orienté vers la conception et réalisation de modules de traitement de données en Python.
+Le projet s'est orienté vers la conception et réalisation de modules de traitement de données en Python.
+</p>
 <br>
 <br>
 
 ## Applications mobiles
 
+<p style='text-align: justify;'>
 J'ai développé pour mon propre besoin une application mobile Android. Cette application permet de créer une ambiance sonore en superposant des sons naturels (vent, pluie, chants d'oiseaux, orage, etc.).
-
+</p>
 <br>
 <br>
 
@@ -225,7 +231,7 @@ J'ai développé pour mon propre besoin une application mobile Android. Cette ap
 
 ## Autres projets
 - Projet Antivol: Antivol pour vélo/moto réalisé à base d'Arduino.
-- NAS: Mise en service d'un serveur de partage multimédia (Plex) ainsi qu'un cloud pour fichiers persos (Nextcloud)
+- NAS: Mise en service d'un serveur de partage multimédia (Plex) ainsi qu'un cloud pour fichiers personnels (Nextcloud)
 
 <hr>
 <center>
@@ -247,8 +253,9 @@ J'ai développé pour mon propre besoin une application mobile Android. Cette ap
 
 # Mes passions
 
+<p style='text-align: justify;'>
 Haut-Alpin d'origine, je suis passionné depuis toujours de montagne et de nature. Toutes les activités touchant de près ou de loin à la montagne m'intéressent. Je pratique notamment le ski alpin, la randonnée, la pêche et le trail.
 J'affectionne particulièrement le calme et la sérénité qui y règnent.
 Sportif depuis tout petit, j'ai eu la chance de pouvoir expérimenter de nombreux sports comme le judo, la boxe, la natation et le football américain.
-
+</p>
 <br>
