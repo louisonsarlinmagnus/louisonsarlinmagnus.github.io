@@ -174,6 +174,7 @@
 # Mes projets
 
 ## EzDVF
+[![.NET](https://github.com/louisonsarlinmagnus/EzDVF/actions/workflows/dotnet.yml/badge.svg)](https://github.com/louisonsarlinmagnus/EzDVF/actions/workflows/dotnet.yml)
 
 <p style='text-align: justify;'>
 EzDVF est un projet personnel réalisé avec Nicolas Mengozzi.
