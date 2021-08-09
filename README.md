@@ -32,6 +32,7 @@
     + Entretien et évolution d’outils logiciels en JAVA
     + Gestion de projet
     + Encadrement d’un stagiaire de DUT
+    + Participation à une commission de recrutement
     + Assistance informatique bureautique
 <br>
 <br>
@@ -40,6 +41,11 @@
     + Archivages et classements de dossiers
     + Assistance aux conseillers
 <br>
+
+# Mon projet
+
+Récement diplimé de l'ISEN Toulon en électronique et informatique industrielle, je recherche activement un poste d'ingénieur.  
+Informaticien de formation, j'ai développer des compétences en gestion de projet, en relation client ainsi qu'en management. Je recherche un emploi me permettant de me rapprocher de Gap.
 
 <br>
 <hr>
