@@ -195,7 +195,7 @@ Il s'agit d'une webapp développée en C# grâce à ASP.NET qui a pour but de fa
 Cette recherche se fait généralement sur un site du gouvernement très peu efficace et très lent. J'ai eu l'idée de mettre en place un webapp simplifiant l'accès à ces données en offrant la possibilité de les télécharger dans un fichier csv (ouvrable avec Excel par exemple).
 Cet outil est encore en développement.
 </p>
-Le code source est disponible [ici.](https://github.com/louisonsarlinmagnus/EzDVF)
+Le code source est disponible <a href="https://github.com/louisonsarlinmagnus/EzDVF">ici</a>.
 <br>
 <br>
 
@@ -207,7 +207,7 @@ Le Jeu de la vie est un automate cellulaire imaginé par John CONWAY.
 Ce programme écrit en Python permet de simuler le cycle de vie de cellules en jouant sur des règles simples.
 Le programme n'est pas forcément fonctionnel.
 </p>
-Le code source est disponible [ici.](https://github.com/louisonsarlinmagnus/Jeu-de-la-vie)
+Le code source est disponible <a href="https://github.com/louisonsarlinmagnus/Jeu-de-la-vie">ici</a>.
 <br>
 <br>
 
@@ -217,7 +217,7 @@ Le code source est disponible [ici.](https://github.com/louisonsarlinmagnus/Jeu-
 Il s'agit ici d'un projet étudiant faisant participer toute la promotion (16 étudiants) à un projet autour du Framwork Spring-Boot. Le but était de créer un agrégateur de réseaux sociaux.
 Ma contribution a principalement tourné autour de l'intégration (CI-CD, tests, validation) et du soutien aux équipes en retard.
 </p>
-L'équipe est disponible [ici.](https://github.com/orgs/Projet-Spring-Boot)
+Le code source est disponible <a href="https://github.com/orgs/Projet-Spring-Boot">ici</a>.
 <br>
 <br>
 
@@ -230,11 +230,14 @@ Le projet s'est orienté vers la conception et réalisation de modules de traite
 <br>
 <br>
 
-## Applications mobiles
+## Ambiancinator
 
 <p style='text-align: justify;'>
-J'ai développé pour mon propre besoin une application mobile Android. Cette application permet de créer une ambiance sonore en superposant des sons naturels (vent, pluie, chants d'oiseaux, orage, etc.).
-</p>
+J'ai développé pour mon propre besoin une application mobile Android. Cette application permet de créer une ambiance sonore en superposant des sons naturels (vent, pluie, chants d'oiseaux, orage, etc.).</p>  
+Le code source est disponible <a href="https://github.com/louisonsarlinmagnus/Ambiancinator">ici</a>. <br>
+L'application est disponible sur le Google Play: <a href="https://play.google.com/store/apps/details?id=com.lsmapps.ambiancinator"><img src="https://play-lh.googleusercontent.com/efDEf0Li85M_Af4J7GZBWlRDvSeVlgzFoMV1DEMB_UdHkmAI8Cr7P_elCkKgtln9Fic=s180" width="35"></a>  
+    
+
 <br>
 <br>
 
