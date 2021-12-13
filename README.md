@@ -12,7 +12,7 @@
         style="float: right;"
         alt="Portrait"
         title="Louison SARLIN--MAGNUS avec 15 kilos en trop"
-        width="150"
+        width="175"
     >
 </div>
 
@@ -26,6 +26,12 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Diplôme d'ingénieur en électronique et informatique industrielles
 
 # Mes expériences
+
+- Octobre 2021: Responsable projet logiciel chez NETCELER
+    + Gestion de projet logiciel
+    + Installation et configuration du logiciel chez le client
+    + Support client niveau 1
+    + Communication client
 
 - 2018 - 2021: Ingénieur apprenti à GENAVIR, La Seyne sur Mer
     + Développement de modules de traitements de données en Python
@@ -44,8 +50,9 @@
 
 # Mon projet
 
-Récement diplimé de l'ISEN Toulon en électronique et informatique industrielle, je recherche activement un poste d'ingénieur.  
-Informaticien de formation, j'ai développer des compétences en gestion de projet, en relation client ainsi qu'en management. Je recherche un emploi me permettant de me rapprocher de Gap.
+Diplimé de l'ISEN Toulon en électronique et informatique industrielle.  
+Informaticien de formation, j'ai développé des compétences en gestion de projet, en relation client ainsi qu'en management.  
+Mon objectif de vie est de retrouner vivre dans ma ville natale, Gap.
 
 <br>
 <hr>
@@ -80,7 +87,7 @@ Informaticien de formation, j'ai développer des compétences en gestion de proj
   </tr>
   <tr>
     <td>Continuous Developpement</td>
-    <td>AWS<br>Docker<br>Kubernetes<br>Sonar<br>Helm</td>
+    <td>AWS<br>Docker<br>Docker-compose<br>Kubernetes<br>Sonar</td>
     <td>Intermédiaire<br></td>
   </tr>
   <tr>
@@ -105,7 +112,7 @@ Informaticien de formation, j'ai développer des compétences en gestion de proj
 <br>
 <br>
 
-# Mes Langages
+# Mes Languages
 
 <center>
 <table>
@@ -152,7 +159,7 @@ Informaticien de formation, j'ai développer des compétences en gestion de proj
 # Mes Soft-Skills
 
 - Communication
-    + Anglais (TOEIC: 940)
+    + Anglais (TOEIC: 920)
     + Italien (débutant)
 - Travail en équipe
 - Curieux
@@ -218,7 +225,7 @@ L'équipe est disponible [ici.](https://github.com/orgs/Projet-Spring-Boot)
 
 <p style='text-align: justify;'>
 Dans le cadre de ma formation d'ingénieur, j'ai eu la chance d'avoir intégralement à ma charge mon projet de fin d'études. Il était donc de ma responsabilité de rédiger le cahier des charges, présenter les solutions techniques envisageables au client (interne), d'organiser le suivi du projet et de réaliser en intégralité le projet.
-Le projet s'est orienté vers la conception et réalisation de modules de traitement de données en Python.
+Le projet s'est orienté vers la conception et réalisation de modules de traitement de données scientifiques en Python.
 </p>
 <br>
 <br>
@@ -233,12 +240,15 @@ J'ai développé pour mon propre besoin une application mobile Android. Cette ap
 
 ## Projet innovant
 
+Dans le cadre d’un projet étudiant, nous avons Localeat, une application mobile qui permet l’échange de denrées alimentaires en circuit court, entre producteurs et consommateurs.
+Pour ce projet nous avons réaliser en parallèle le développement de l'application mobile, de l'API mais aussi la communication publique, les études de marchés et la veille technologique.
+
 <br>
 <br>
 
 ## Autres projets
 - Projet Antivol: Antivol pour vélo/moto réalisé à base d'Arduino.
-- NAS: Mise en service d'un serveur de partage multimédia (Plex) ainsi qu'un cloud pour fichiers personnels (Nextcloud)
+- NAS: Mise en service d'un serveur de partage multimédia (Plex), un cloud pour fichiers personnels (Nextcloud), un serveur d'application pour le projet EZDVF, entre autres.
 
 <hr>
 <center>
@@ -252,10 +262,11 @@ J'ai développé pour mon propre besoin une application mobile Android. Cette ap
 </center>
 <hr>
 
-# Mes certifications
+# Mes certifications et diplômes
 
+- Titre d'ingénieur
 - Baccalauréat Scientifique (juil. 2015)
-- TOEIC (940) (déc. 2019)
+- TOEIC (920) (déc. 2019)
 - Projet Voltaire (mai 2016, 2021)
 
 # Mes passions
