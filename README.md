@@ -196,11 +196,11 @@ Mon objectif de vie est de retrouner vivre dans ma ville natale, Gap.
 [![Build](https://github.com/louisonsarlinmagnus/Jeu-2-la-vie/actions/workflows/django.yml/badge.svg)](https://github.com/louisonsarlinmagnus/Jeu-2-la-vie/actions/workflows/django.yml)
 
 <p style='text-align: justify;'>
-Le Jeu de la vie est un automate cellulaire imaginé par John CONWAY.
+Le jeu de la vie est un automate cellulaire imaginé par John CONWAY.
 Ce programme écrit en utilisant le framework Python Django permet de simuler le cycle de vie de cellules en jouant sur des règles simples.
 Cette webapp développée avec ma compagne <a href="https://github.com/mariegiannoni">Marie GIANNONI</a> est encore en cours de développement.
 </p>
-La Webapp est disponible <a href="https://j2lv.lsarlinmagnus.fr/">ici</a>
+La Webapp est disponible <a href="https://j2lv.lsarlinmagnus.fr/">ici</a><br>
 Le code source est disponible <a href="https://github.com/louisonsarlinmagnus/Jeu-2-la-vie">ici</a>.
 <br>
 <br>
@@ -214,7 +214,7 @@ Il s'agit d'une webapp développée en C# grâce à ASP.NET qui a pour but de fa
 Cette recherche se fait généralement sur un site du gouvernement très peu efficace et très lent. J'ai eu l'idée de mettre en place un webapp simplifiant l'accès à ces données en offrant la possibilité de les télécharger dans un fichier csv (ouvrable avec Excel par exemple).
 Cet outil est encore en développement.
 </p>
-La Webapp est disponible <a href="https://ezdvf.lsarlinmagnus.fr/">ici</a>
+La Webapp est disponible <a href="https://ezdvf.lsarlinmagnus.fr/">ici</a><br>
 Le code source est disponible <a href="https://github.com/louisonsarlinmagnus/EzDVF">ici</a>.
 <br>
 <br>
@@ -222,7 +222,7 @@ Le code source est disponible <a href="https://github.com/louisonsarlinmagnus/Ez
 ## Projet TurboNas
 
 <p style='text-align: justify;'>
-L'objectif de ce projet est la réalisation d'un serveur/NAS permettant d'heberger mes webapps <a href="https://ezdvf.lsarlinmagnus.fr/">EzDVF</a> et <a href="https://github.com/louisonsarlinmagnus/Jeu-2-la-vie">J2LV</a> , d'autres webapp d'ordre utile comme VaultWarden ou Audiobookshelf, un serveur de jeu Minecraft et enfin des outils de gestion et de monitoring du serveur (Grafana, Traefik, Gotify, etc.). Le projet est pourvu d'un WebSSO, d'un dashboard facilitant l'accès aux différentes application, un hébergement Docker sur Ubuntu 20.04LTS et d'un monitoring complet.
+L'objectif de ce projet est la réalisation d'un serveur/NAS permettant d'héberger mes webapps <a href="https://ezdvf.lsarlinmagnus.fr/">EzDVF</a> et <a href="https://github.com/louisonsarlinmagnus/Jeu-2-la-vie">J2LV</a> , d'autres webapp d'ordre utile comme VaultWarden ou Audiobookshelf, un serveur de jeu Minecraft et enfin des outils de gestion et de monitoring du serveur (Grafana, Traefik, Gotify, etc.). Le projet est pourvu d'un WebSSO, d'un dashboard facilitant l'accès aux différentes applications, d'un système de notification push, un hébergement Docker sur Ubuntu 20.04LTS et d'un monitoring complet.
 </p>
 
 
@@ -242,7 +242,6 @@ Le code source est disponible <a href="https://github.com/orgs/Projet-Spring-Boo
 Dans le cadre de ma formation d'ingénieur, j'ai eu la chance d'avoir intégralement à ma charge mon projet de fin d'études. Il était donc de ma responsabilité de rédiger le cahier des charges, présenter les solutions techniques envisageables au client (interne), d'organiser le suivi du projet et de réaliser en intégralité le projet.
 Le projet s'est orienté vers la conception et réalisation de modules de traitement de données scientifiques en Python.
 </p>
-<br>
 <br>
 
 ## Ambiancinator
