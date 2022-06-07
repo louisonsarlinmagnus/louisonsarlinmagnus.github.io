@@ -2,10 +2,10 @@
 <div style="display: flex; justify-content: center; align-items: center;">
     <div>
         <p style="margin-right: 10%;text-align:justify">
-            Je suis ingénieur informaticien spécialisé dans le développement logiciel.  
+            Je suis ingénieur en informatique spécialisé dans le développement et la conception logicielle.  
             Curieux, j'aime explorer des domaines très différents comme le travail du bois, l'impression 3D et la mécanique.  
-            Par le biais de petits projets, j’apprends de nouvelles techniques et aussi à mieux me connaitre.<br>
-            Je pratique entre autre la randonnée, la moto et la pêche.  
+            Par le biais de projets, j’apprends de nouvelles techniques et à mieux me connaitre.<br>
+            Je pratique la randonnée, la moto et la pêche.  
         </p>
     </div>
     <img src="https://i.imgur.com/Ddf7G9t.jpg?1"
@@ -27,12 +27,14 @@
 
 # Mes expériences
 
-- Octobre 2021: Responsable projet logiciel chez NETCELER
+- Depuis octobre 2021: Responsable projet logiciel chez NETCELER
     + Gestion de projet logiciel
     + Installation et configuration du logiciel chez le client
     + Support client niveau 1
+    + Conception d'outil interne
+    + Encadrement d'un ingénieur en formation par alternance pour la réalisation d'outils logiciels internes
     + Communication client
-
+<br>
 - 2018 - 2021: Ingénieur apprenti à GENAVIR, La Seyne sur Mer
     + Développement de modules de traitements de données en Python
     + Entretien et évolution d’outils logiciels en JAVA
@@ -40,7 +42,6 @@
     + Encadrement d’un stagiaire de DUT
     + Participation à une commission de recrutement
     + Assistance informatique bureautique
-<br>
 <br>
 - Juillet 2015 & juillet 2016: Auxillaire de vacances à la Société Générale Gap
     + Réception de clients
@@ -51,7 +52,7 @@
 # Mon projet
 
 Diplimé de l'ISEN Toulon en électronique et informatique industrielle.  
-Informaticien de formation, j'ai développé des compétences en gestion de projet, en relation client ainsi qu'en management.  
+Developpeur de concepteur logiciel de formation, j'ai développé des compétences en gestion de projet, en relation client ainsi qu'en management.  
 Mon objectif de vie est de retrouner vivre dans ma ville natale, Gap.
 
 <br>
@@ -87,22 +88,22 @@ Mon objectif de vie est de retrouner vivre dans ma ville natale, Gap.
   </tr>
   <tr>
     <td>Continuous Developpement</td>
-    <td>AWS<br>Docker<br>Docker-compose<br>Kubernetes<br>Sonar</td>
-    <td>Intermédiaire<br></td>
+    <td>Docker<br>Docker-compose<br>Sonar</td>
+    <td>Avancé<br></td>
   </tr>
   <tr>
     <td>Rédaction de documentation</td>
-    <td>Markdown<br>GitHub<br>GitHub Pages</td>
+    <td>Markdown<br>Mkdocs<br>GitHub Pages</td>
     <td>Avancé<br></td>
   </tr>
   <tr>
     <td>Frameworks<br></td>
-    <td>Spring-Boot<br>ASP.NET<br></td>
+    <td>Spring-Boot<br>ASP.NET<br>Django</td>
     <td>Intermédiaire</td>
   </tr>
   <tr>
     <td>Base de données</td>
-    <td>MySQL<br>SQLite<br>SQL Server<br></td>
+    <td>PostgreSQL<br>MySQL<br>SQLite<br></td>
     <td>Intermédiaire</td>
   </tr>
 </tbody>
@@ -125,13 +126,18 @@ Mon objectif de vie est de retrouner vivre dans ma ville natale, Gap.
 </thead>
 <tbody>
     <tr>
+        <td><center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="Python" width="30"></center></td>
+        <td>Python</td>
+        <td>Avancé</td>
+    </tr>
+    <tr>
         <td><center><img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" alt="JAVA" width="30"></center></td>
         <td>Java</td>
         <td>Avancé</td>
     </tr>
     <tr>
-        <td><center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="Python" width="30"></center></td>
-        <td>Python</td>
+        <td><center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Official_YAML_Logo.svg/1200px-Official_YAML_Logo.svg.png" alt="YAML" width="30"></center></td>
+        <td>YAML</td>
         <td>Avancé</td>
     </tr>
     <tr>
@@ -186,6 +192,19 @@ Mon objectif de vie est de retrouner vivre dans ma ville natale, Gap.
  
 # Mes projets
 
+## Jeu 2 la Vie
+[![Build](https://github.com/louisonsarlinmagnus/Jeu-2-la-vie/actions/workflows/django.yml/badge.svg)](https://github.com/louisonsarlinmagnus/Jeu-2-la-vie/actions/workflows/django.yml)
+
+<p style='text-align: justify;'>
+Le Jeu de la vie est un automate cellulaire imaginé par John CONWAY.
+Ce programme écrit en utilisant le framework Python Django permet de simuler le cycle de vie de cellules en jouant sur des règles simples.
+Cette webapp développée avec ma compagne <a href="https://github.com/mariegiannoni">Marie GIANNONI</a> est encore en cours de développement.
+</p>
+La Webapp est disponible <a href="https://j2lv.lsarlinmagnus.fr/">ici</a>
+Le code source est disponible <a href="https://github.com/louisonsarlinmagnus/Jeu-2-la-vie">ici</a>.
+<br>
+<br>
+
 ## EzDVF
 [![.NET](https://github.com/louisonsarlinmagnus/EzDVF/actions/workflows/dotnet.yml/badge.svg)](https://github.com/louisonsarlinmagnus/EzDVF/actions/workflows/dotnet.yml)
 
@@ -195,21 +214,17 @@ Il s'agit d'une webapp développée en C# grâce à ASP.NET qui a pour but de fa
 Cette recherche se fait généralement sur un site du gouvernement très peu efficace et très lent. J'ai eu l'idée de mettre en place un webapp simplifiant l'accès à ces données en offrant la possibilité de les télécharger dans un fichier csv (ouvrable avec Excel par exemple).
 Cet outil est encore en développement.
 </p>
+La Webapp est disponible <a href="https://ezdvf.lsarlinmagnus.fr/">ici</a>
 Le code source est disponible <a href="https://github.com/louisonsarlinmagnus/EzDVF">ici</a>.
 <br>
 <br>
 
-## Jeu de la Vie
+## Projet TurboNas
 
 <p style='text-align: justify;'>
-Ce projet avait pour seul but de me faire progresser en Python durant les heures perdues.
-Le Jeu de la vie est un automate cellulaire imaginé par John CONWAY.
-Ce programme écrit en Python permet de simuler le cycle de vie de cellules en jouant sur des règles simples.
-Le programme n'est pas forcément fonctionnel.
+L'objectif de ce projet est la réalisation d'un serveur/NAS permettant d'heberger mes webapps <a href="https://ezdvf.lsarlinmagnus.fr/">EzDVF</a> et <a href="https://github.com/louisonsarlinmagnus/Jeu-2-la-vie">J2LV</a> , d'autres webapp d'ordre utile comme VaultWarden ou Audiobookshelf, un serveur de jeu Minecraft et enfin des outils de gestion et de monitoring du serveur (Grafana, Traefik, Gotify, etc.). Le projet est pourvu d'un WebSSO, d'un dashboard facilitant l'accès aux différentes application, un hébergement Docker sur Ubuntu 20.04LTS et d'un monitoring complet.
 </p>
-Le code source est disponible <a href="https://github.com/louisonsarlinmagnus/Jeu-de-la-vie">ici</a>.
-<br>
-<br>
+
 
 ## Projet Spring-Boot
 
@@ -236,22 +251,20 @@ Le projet s'est orienté vers la conception et réalisation de modules de traite
 J'ai développé pour mon propre besoin une application mobile Android. Cette application permet de créer une ambiance sonore en superposant des sons naturels (vent, pluie, chants d'oiseaux, orage, etc.).</p>  
 Le code source est disponible <a href="https://github.com/louisonsarlinmagnus/Ambiancinator">ici</a>. <br>
 L'application est disponible sur le Google Play: <a href="https://play.google.com/store/apps/details?id=com.lsmapps.ambiancinator"><img src="https://play-lh.googleusercontent.com/efDEf0Li85M_Af4J7GZBWlRDvSeVlgzFoMV1DEMB_UdHkmAI8Cr7P_elCkKgtln9Fic=s180" width="35"></a>  
-    
-
 <br>
 <br>
 
 ## Projet innovant
 
 Dans le cadre d’un projet étudiant, nous avons Localeat, une application mobile qui permet l’échange de denrées alimentaires en circuit court, entre producteurs et consommateurs.
-Pour ce projet nous avons réaliser en parallèle le développement de l'application mobile, de l'API mais aussi la communication publique, les études de marchés et la veille technologique.
-
+Pour ce projet nous avons réaliser en parallèle le développement de l'application mobile, de l'API mais aussi la communication publique, les études de marchés et la veille technologique.<br>
+La vidéo promotionnelle (réalisée par mes soins) est disponible <a href="https://youtu.be/MLKATSYRV4M">ici</a>
 <br>
 <br>
 
 ## Autres projets
+
 - Projet Antivol: Antivol pour vélo/moto réalisé à base d'Arduino.
-- NAS: Mise en service d'un serveur de partage multimédia (Plex), un cloud pour fichiers personnels (Nextcloud), un serveur d'application pour le projet EZDVF, entre autres.
 
 <hr>
 <center>
@@ -270,7 +283,7 @@ Pour ce projet nous avons réaliser en parallèle le développement de l'applica
 - Titre d'ingénieur
 - Baccalauréat Scientifique (juil. 2015)
 - TOEIC (920) (déc. 2019)
-- Projet Voltaire (mai 2016, 2021)
+- Projet Voltaire (mai 2016, juin 2021)
 
 # Mes passions
 
