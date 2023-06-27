@@ -59,8 +59,7 @@
 
 # Mon projet
 
-Diplimé de l'ISEN Toulon en électronique et informatique industrielle, je me suis spécialisé dans les techniques DevOps.  
-Ingénieur technique de formation, j'ai développé de précieuses compétences en gestion de projet, en relation client ainsi qu'en management.  
+Diplimé de l'ISEN Toulon en électronique et informatique industrielle, je me suis spécialisé dans les techniques DevOps. Ingénieur technique de formation, j'ai développé de précieuses compétences en gestion de projet, en relation client ainsi qu'en management.  
 Mon objectif de vie est de vivre dans ma ville natale, Gap et d'exercer un poste DevOps mettant au défis mes connaissances.
 
 <br>
@@ -77,128 +76,11 @@ Mon objectif de vie est de vivre dans ma ville natale, Gap et d'exercer un poste
 <hr>
 <br>
 
-# Mes compétences
-
-<center>
-<table>
-<thead>
-  <tr>
-    <th>Compétence<br></th>
-    <th>Technologie</th>
-    <th>Niveau</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Continuous Integration</td>
-    <td>Markdown<br>GitHub<br>GitHub workflows</td>
-    <td>Avancé<br></td>
-  </tr>
-  <tr>
-    <td>Continuous Developpement</td>
-    <td>Docker<br>Docker-compose<br>Sonar</td>
-    <td>Avancé<br></td>
-  </tr>
-  <tr>
-    <td>Rédaction de documentation</td>
-    <td>Markdown<br>Mkdocs<br>GitHub Pages</td>
-    <td>Avancé<br></td>
-  </tr>
-  <tr>
-    <td>Frameworks<br></td>
-    <td>Spring-Boot<br>ASP.NET<br>Django</td>
-    <td>Intermédiaire</td>
-  </tr>
-  <tr>
-    <td>Base de données</td>
-    <td>PostgreSQL<br>MySQL<br>SQLite<br></td>
-    <td>Intermédiaire</td>
-  </tr>
-</tbody>
-</table>
-</center>
-
-<br>
-<br>
-
-# Mes Languages
-
-<center>
-<table>
-<thead>
-    <tr>
-        <th>Logo</th>
-        <th>Langage</th>
-        <th>Niveau</th>
-    </tr>
-</thead>
-<tbody>
-    <tr>
-        <td><center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="Python" width="30"></center></td>
-        <td>Python</td>
-        <td>Avancé</td>
-    </tr>
-    <tr>
-        <td><center><img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" alt="JAVA" width="30"></center></td>
-        <td>Java</td>
-        <td>Avancé</td>
-    </tr>
-    <tr>
-        <td><center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Official_YAML_Logo.svg/1200px-Official_YAML_Logo.svg.png" alt="YAML" width="30"></center></td>
-        <td>YAML</td>
-        <td>Avancé</td>
-    </tr>
-    <tr>
-        <td><center><img src="https://www.laboiteverte.fr/wp-content/uploads/2011/01/HTML5-Logo-officiel-w3.png" alt="Python" width="40"></center></td>
-        <td>HTML</td>
-        <td>Intermédiaire</td>
-    </tr>
-    <tr>
-        <td><center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" alt="C#" width="30"></center></td>
-        <td>C#</td>
-        <td>Intermédiare<br></td>
-    </tr>
-    <tr>
-        <td><center><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C#" width="30"></center></td>
-        <td>C/C++</td>
-        <td>Débutant<br></td>
-    </tr>
-</tbody>
-</table>
-</center>
-
-<br>
-<br>
-
-# Mes Soft-Skills
-
-- Communication
-    + Anglais (TOEIC: 920)
-    + Italien (débutant)
-- Travail en équipe
-- Curieux
-- Autonome
-- Travail à distance
-- Rigoureux
-- Conscience de moi
-
-<br>
-<hr>
-
-<div style="display: flex;">
-<center>
-    <img src="https://i.imgur.com/UznVCq4.jpg"
-         style="float: right;"
-        alt="panorama"
-        title="L'Olan dans les nuages (photo prise au dessus de la Chapelle en Valgaudemar)"
-    >
-</center>
-</div>
-
-<hr>
-<br>
- 
 # Mes projets
+
+## POC MCCS
+J'ai été responsable de la réalisation d'un Proof Of Concept (POC) consistant en le développement d'un logiciel JAVA containerisé avec Docker, orechestré avec Kubernetes et packagé avec Helm envoyant des données serialisées avec Protobuf sur Kafka. Le périmètre du POC comprenait aussi la mise en place d'OpenTelemtry pour le monitoring du logiciel et le traçage des données envoyées dans Kafka.  
+J'ai réaliser 80% du projet en totale autonomie lors de mon dernier mois chez NetCeler. Seule la configuration Kubernetes n'a pas eu le temps d'être finalisée avant mon départ.
 
 ## Jeu 2 la Vie
 [![Build](https://github.com/louisonsarlinmagnus/Jeu-2-la-vie/actions/workflows/django.yml/badge.svg)](https://github.com/louisonsarlinmagnus/Jeu-2-la-vie/actions/workflows/django.yml)
@@ -284,6 +166,35 @@ La vidéo promotionnelle (réalisée par mes soins) est disponible <a href="http
 </div>
 </center>
 <hr>
+
+
+# Mes Soft-Skills
+
+- Communication
+    + Anglais (TOEIC: 920)
+    + Italien (débutant)
+- Travail en équipe
+- Curieux
+- Autonome
+- Travail à distance
+- Rigoureux
+- Conscience de moi
+
+<br>
+<hr>
+
+<div style="display: flex;">
+<center>
+    <img src="https://i.imgur.com/UznVCq4.jpg"
+         style="float: right;"
+        alt="panorama"
+        title="L'Olan dans les nuages (photo prise au dessus de la Chapelle en Valgaudemar)"
+    >
+</center>
+</div>
+
+<hr>
+<br>
 
 # Mes certifications et diplômes
 
