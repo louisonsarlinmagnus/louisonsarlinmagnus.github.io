@@ -1,4 +1,17 @@
-<h1>Qui suis-je</h1>
+
+<div style="display: flex;">
+<center>
+    <img src="https://i.imgur.com/UznVCq4.jpg"
+         style="float: right;"
+        alt="panorama"
+        title="L'Olan dans les nuages (photo prise au dessus de la Chapelle en Valgaudemar)"
+    >
+</center>
+</div>
+
+<hr>
+
+<h1>Qui suis-je ?</h1>
 <div style="display: flex; justify-content: center; align-items: center;">
     <div>
         <p style="margin-right: 10%;text-align:justify">
@@ -21,11 +34,11 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Diplôme d'ingénieur en électronique et informatique industrielles
 - 2015 - 2018: Classes préparatoires à L'ISEN Toulon  
 - 2008 - 2015: Collège et Lycée Saint-Joseph à GAP.  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Baccalauréat Scientifique option sciences de l'ingénieur  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Baccalauréat Scientifique option Sciences de l'Ingénieur  
 
 # Mes expériences
 
-- Depuis février 2023: Chef de Projet Ingéniérie Numérique
+- Depuis février 2023: Chef de Projet Ingéniérie Numérique au Département des Hautes-Alpes
     + Construction d'une offre de services aux collectivités
     + Analyse du besoin des collectivités
     + Rédactions de pièces de marchés publics
@@ -42,7 +55,7 @@
     + Rédaction de spécifications et de documentation
     + Encadrement d'un ingénieur apprenti
 <br>
-- 2018 - 2021: Ingénieur apprenti à GENAVIR, La Seyne sur Mer
+- 2018 - 2021: Ingénieur apprenti à GENAVIR, La Seyne-sur-Mer
     + Développement de modules de traitements de données en Python
     + Entretien et évolution d’outils logiciels en JAVA
     + Gestion de projet
@@ -58,8 +71,8 @@
 
 # Mon projet
 
-Diplimé de l'ISEN Toulon en électronique et informatique industrielle, je me suis spécialisé dans les techniques DevOps. Ingénieur technique de formation, j'ai développé de précieuses compétences en gestion de projet, en relation client ainsi qu'en management.  
-Mon objectif de vie est de vivre dans ma ville natale, Gap et d'exercer un poste DevOps mettant au défis mes connaissances.
+Diplômé de l'ISEN Toulon en électronique et informatique industrielle, je me suis spécialisé dans les techniques DevOps. Ingénieur technique de formation, j'ai développé de précieuses compétences en gestion de projet, en relation client ainsi qu'en management.  
+Mon objectif de vie est de vivre dans ma ville natale, Gap, et d'exercer un poste DevOps mettant au défi mes connaissances.
 
 <br>
 <hr>
@@ -78,13 +91,14 @@ Mon objectif de vie est de vivre dans ma ville natale, Gap et d'exercer un poste
 # Mes projets
 
 ## POC MCCS
-J'ai été responsable de la réalisation d'un Proof Of Concept (POC) consistant en le développement d'un logiciel JAVA containerisé avec Docker, orechestré avec Kubernetes et packagé avec Helm envoyant des données serialisées avec Protobuf sur Kafka. Le périmètre du POC comprenait aussi la mise en place d'OpenTelemtry pour le monitoring du logiciel et le traçage des données envoyées dans Kafka.  
-J'ai réaliser 80% du projet en totale autonomie lors de mon dernier mois chez NetCeler. Seule la configuration Kubernetes n'a pas eu le temps d'être finalisée avant mon départ.
+
+J'ai été responsable de la réalisation d'un Proof Of Concept (POC) consistant en le développement d'un logiciel JAVA containerisé avec Docker, orchestré avec Kubernetes et packagé avec Helm, envoyant des données serialisées avec Protobuf sur Kafka. Le périmètre du POC comprenait aussi la mise en place d'OpenTelemtry pour le monitoring du logiciel et le traçage des données envoyées dans Kafka ainsi que Signoz pour la visualisation de ces dernières.  
+J'ai réalisé 90% du projet en totale autonomie lors de mon dernier mois chez NetCeler. Seule la configuration Kubernetes n'a pas eu le temps d'être finalisée avant mon départ.
 
 ## Projet TurboNas
 
 <p style='text-align: justify;'>
-L'objectif de ce projet est la réalisation d'un serveur/NAS permettant d'héberger mes webapps <a href="https://ezdvf.lsarlinmagnus.fr/">EzDVF</a> et <a href="https://github.com/louisonsarlinmagnus/Jeu-2-la-vie">J2LV</a> , d'autres webapp d'ordre utile comme VaultWarden ou Audiobookshelf, un serveur de jeu Minecraft et enfin des outils de gestion et de monitoring du serveur (Grafana, Traefik, Gotify, etc.). Le projet est pourvu d'un WebSSO, d'un dashboard facilitant l'accès aux différentes applications, d'un système de notification push, un hébergement Docker sur Ubuntu 20.04LTS et d'un monitoring complet. J'ai par ailleurs rédigé un article de blog sur le monitoring de mon Homelab, disponible <a href="https://blog.lsarlinmagnus.fr/monitoring-de-mon-homelab/">ici</a>.
+L'objectif de ce projet est la réalisation d'un serveur/NAS permettant d'héberger mes webapps <a href="https://ezdvf.lsarlinmagnus.fr/">EzDVF</a> et <a href="https://github.com/louisonsarlinmagnus/Jeu-2-la-vie">J2LV</a>, d'autres webapps d'ordre utile comme VaultWarden ou Audiobookshelf, un serveur de jeu Minecraft et enfin des outils de gestion et de monitoring du serveur (Grafana, Traefik, Gotify, etc.). Le projet est pourvu d'un WebSSO, d'un LDAP, d'un dashboard facilitant l'accès aux différentes applications, d'un système de notification push, un hébergement Docker sur Ubuntu 20.04LTS et d'un monitoring complet. J'ai par ailleurs rédigé un article de blog sur ce dernier, disponible <a href="https://blog.lsarlinmagnus.fr/monitoring-de-mon-homelab/">ici</a>.
 </p>
 
 ## Jeu 2 la Vie
@@ -104,9 +118,9 @@ Le code source est disponible <a href="https://github.com/louisonsarlinmagnus/Je
 [![.NET](https://github.com/louisonsarlinmagnus/EzDVF/actions/workflows/dotnet.yml/badge.svg)](https://github.com/louisonsarlinmagnus/EzDVF/actions/workflows/dotnet.yml)
 
 <p style='text-align: justify;'>
-EzDVF est un projet personnel réalisé avec Nicolas Mengozzi.
+EzDVF est un projet personnel réalisé avec <a href="https://github.com/NicowNicow">Nicolas Mengozzi</a>.
 Il s'agit d'une webapp développée en C# grâce à ASP.NET qui a pour but de faciliter l'accès à des données de valeurs financières. Pour le diagnostic et l'évaluation de la valeur d'un bien immobilier, le spécialiste analyse l'historique des achats et ventes du bien.
-Cette recherche se fait généralement sur un site du gouvernement très peu efficace et très lent. J'ai eu l'idée de mettre en place un webapp simplifiant l'accès à ces données en offrant la possibilité de les télécharger dans un fichier csv (ouvrable avec Excel par exemple).
+Cette recherche se fait généralement sur un site du gouvernement très peu efficace et très lent. J'ai eu l'idée de mettre en place une webapp simplifiant l'accès à ces données en offrant la possibilité de les télécharger dans un fichier csv (ouvrable avec Excel par exemple).
 Cet outil est encore en développement.
 </p>
 La Webapp est disponible <a href="https://ezdvf.lsarlinmagnus.fr/">ici</a><br>
@@ -127,7 +141,7 @@ Le code source est disponible <a href="https://github.com/orgs/Projet-Spring-Boo
 ## Projet Genavir
 
 <p style='text-align: justify;'>
-Dans le cadre de ma formation d'ingénieur, j'ai eu la chance d'avoir intégralement à ma charge mon projet de fin d'études. Il était donc de ma responsabilité de rédiger le cahier des charges, présenter les solutions techniques envisageables au client (interne), d'organiser le suivi du projet et de réaliser en intégralité le projet.
+Dans le cadre de ma formation d'ingénieur, j'ai eu la chance d'avoir intégralement à ma charge mon projet de fin d'études. Il était donc de ma responsabilité de rédiger le cahier des charges, de présenter les solutions techniques envisageables au client (interne), d'organiser le suivi du projet et de réaliser en intégralité le projet.
 Le projet s'est orienté vers la conception et réalisation de modules de traitement de données scientifiques en Python.
 </p>
 <br>
@@ -152,6 +166,7 @@ La vidéo promotionnelle (réalisée par mes soins) est disponible <a href="http
 ## Autres projets
 
 - Projet Antivol: Antivol pour vélo/moto réalisé à base d'Arduino.
+- Projet de monitoring de performance PC en jeu avec un module Arduino.
 
 <hr>
 <center>
@@ -165,17 +180,6 @@ La vidéo promotionnelle (réalisée par mes soins) est disponible <a href="http
 </center>
 <hr>
 
-<div style="display: flex;">
-<center>
-    <img src="https://i.imgur.com/UznVCq4.jpg"
-         style="float: right;"
-        alt="panorama"
-        title="L'Olan dans les nuages (photo prise au dessus de la Chapelle en Valgaudemar)"
-    >
-</center>
-</div>
-
-<hr>
 <br>
 
 # Mes certifications et diplômes
