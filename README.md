@@ -5,7 +5,6 @@
             Je suis ingénieur en informatique spécialisé dans le développement et la conception logicielle.  
             Curieux, j'aime explorer des domaines très différents comme le travail du bois, l'impression 3D et la mécanique.  
             Par le biais de projets, j’apprends de nouvelles techniques et à mieux me connaitre.<br>
-            Je pratique la randonnée, la moto et la pêche.  
         </p>
     </div>
     <img src="https://i.imgur.com/Ddf7G9t.jpg?1"
@@ -27,13 +26,22 @@
 
 # Mes expériences
 
-- Depuis octobre 2021: Responsable projet logiciel chez NETCELER
-    + Gestion de projet logiciel
-    + Installation et configuration du logiciel chez le client
-    + Support client niveau 1
-    + Conception d'outil interne
-    + Encadrement d'un ingénieur en formation par alternance pour la réalisation d'outils logiciels internes
-    + Communication client
+- Depuis février 2023: Chef de Projet Ingéniérie Numérique
+    + Construction d'une offre de services aux collectivités
+    + Analyse du besoin des collectivités
+    + Rédactions de pièces de marchés publics
+    + Assistance à la maîtrise d'ouvrage
+    + Audit de premier niveau
+    + Réponses et accompagnement aux demandes
+<br>
+-  De octobre 2021 à janvier 2023: Responsable projet logiciel chez NETCELER
+    + Réalisation d'un POC décisif pour l'évolution du produit
+    + Support technique aux clients du produit IVPower
+    + Conception et gestion du développement d'outils internes
+    + Déploiement et configuration du logiciel IVPower
+    + Gestion de projets logiciels
+    + Rédaction de spécifications et de documentation
+    + Encadrement d'un ingénieur apprenti
 <br>
 - 2018 - 2021: Ingénieur apprenti à GENAVIR, La Seyne sur Mer
     + Développement de modules de traitements de données en Python
@@ -51,9 +59,9 @@
 
 # Mon projet
 
-Diplimé de l'ISEN Toulon en électronique et informatique industrielle.  
-Developpeur de concepteur logiciel de formation, j'ai développé des compétences en gestion de projet, en relation client ainsi qu'en management.  
-Mon objectif de vie est de retrouner vivre dans ma ville natale, Gap.
+Diplimé de l'ISEN Toulon en électronique et informatique industrielle, je me suis spécialisé dans les techniques DevOps.  
+Ingénieur technique de formation, j'ai développé de précieuses compétences en gestion de projet, en relation client ainsi qu'en management.  
+Mon objectif de vie est de vivre dans ma ville natale, Gap et d'exercer un poste DevOps mettant au défis mes connaissances.
 
 <br>
 <hr>
