@@ -7,22 +7,21 @@
             Par le biais de projets, j’apprends de nouvelles techniques et à mieux me connaitre.<br>
         </p>
     </div>
-    <img src="https://i.imgur.com/Ddf7G9t.jpg?1"
+    <img src="https://imgur.com/03Wf2I9.jpg"
         style="float: right;"
         alt="Portrait"
-        title="Louison SARLIN--MAGNUS avec 15 kilos en trop"
+        title="Portrait de Louison SARLIN--MAGNUS"
         width="175"
     >
 </div>
 
 
 # Mes formations
-
-- 2008 - 2015: Collège et Lycée Saint-Joseph à GAP.  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Baccalauréat Scientifique option sciences de l'ingénieur  
-- 2015 - 2018: Classes préparatoires à L'ISEN Toulon  
 - 2018 - 2021: Formation d'ingénieur par alternance à l'ISEN Toulon  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Diplôme d'ingénieur en électronique et informatique industrielles
+- 2015 - 2018: Classes préparatoires à L'ISEN Toulon  
+- 2008 - 2015: Collège et Lycée Saint-Joseph à GAP.  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Baccalauréat Scientifique option sciences de l'ingénieur  
 
 # Mes expériences
 
@@ -82,6 +81,12 @@ Mon objectif de vie est de vivre dans ma ville natale, Gap et d'exercer un poste
 J'ai été responsable de la réalisation d'un Proof Of Concept (POC) consistant en le développement d'un logiciel JAVA containerisé avec Docker, orechestré avec Kubernetes et packagé avec Helm envoyant des données serialisées avec Protobuf sur Kafka. Le périmètre du POC comprenait aussi la mise en place d'OpenTelemtry pour le monitoring du logiciel et le traçage des données envoyées dans Kafka.  
 J'ai réaliser 80% du projet en totale autonomie lors de mon dernier mois chez NetCeler. Seule la configuration Kubernetes n'a pas eu le temps d'être finalisée avant mon départ.
 
+## Projet TurboNas
+
+<p style='text-align: justify;'>
+L'objectif de ce projet est la réalisation d'un serveur/NAS permettant d'héberger mes webapps <a href="https://ezdvf.lsarlinmagnus.fr/">EzDVF</a> et <a href="https://github.com/louisonsarlinmagnus/Jeu-2-la-vie">J2LV</a> , d'autres webapp d'ordre utile comme VaultWarden ou Audiobookshelf, un serveur de jeu Minecraft et enfin des outils de gestion et de monitoring du serveur (Grafana, Traefik, Gotify, etc.). Le projet est pourvu d'un WebSSO, d'un dashboard facilitant l'accès aux différentes applications, d'un système de notification push, un hébergement Docker sur Ubuntu 20.04LTS et d'un monitoring complet. J'ai par ailleurs rédigé un article de blog sur le monitoring de mon Homelab, disponible <a href="https://blog.lsarlinmagnus.fr/monitoring-de-mon-homelab/">ici</a>.
+</p>
+
 ## Jeu 2 la Vie
 [![Build](https://github.com/louisonsarlinmagnus/Jeu-2-la-vie/actions/workflows/django.yml/badge.svg)](https://github.com/louisonsarlinmagnus/Jeu-2-la-vie/actions/workflows/django.yml)
 
@@ -108,13 +113,6 @@ La Webapp est disponible <a href="https://ezdvf.lsarlinmagnus.fr/">ici</a><br>
 Le code source est disponible <a href="https://github.com/louisonsarlinmagnus/EzDVF">ici</a>.
 <br>
 <br>
-
-## Projet TurboNas
-
-<p style='text-align: justify;'>
-L'objectif de ce projet est la réalisation d'un serveur/NAS permettant d'héberger mes webapps <a href="https://ezdvf.lsarlinmagnus.fr/">EzDVF</a> et <a href="https://github.com/louisonsarlinmagnus/Jeu-2-la-vie">J2LV</a> , d'autres webapp d'ordre utile comme VaultWarden ou Audiobookshelf, un serveur de jeu Minecraft et enfin des outils de gestion et de monitoring du serveur (Grafana, Traefik, Gotify, etc.). Le projet est pourvu d'un WebSSO, d'un dashboard facilitant l'accès aux différentes applications, d'un système de notification push, un hébergement Docker sur Ubuntu 20.04LTS et d'un monitoring complet.
-</p>
-
 
 ## Projet Spring-Boot
 
@@ -167,22 +165,6 @@ La vidéo promotionnelle (réalisée par mes soins) est disponible <a href="http
 </center>
 <hr>
 
-
-# Mes Soft-Skills
-
-- Communication
-    + Anglais (TOEIC: 920)
-    + Italien (débutant)
-- Travail en équipe
-- Curieux
-- Autonome
-- Travail à distance
-- Rigoureux
-- Conscience de moi
-
-<br>
-<hr>
-
 <div style="display: flex;">
 <center>
     <img src="https://i.imgur.com/UznVCq4.jpg"
@@ -198,10 +180,10 @@ La vidéo promotionnelle (réalisée par mes soins) est disponible <a href="http
 
 # Mes certifications et diplômes
 
-- Titre d'ingénieur
-- Baccalauréat Scientifique (juil. 2015)
-- TOEIC (920) (déc. 2019)
+- Titre d'ingénieur (juin 2021)
 - Projet Voltaire (mai 2016, juin 2021)
+- TOEIC (920) (déc. 2019)
+- Baccalauréat Scientifique (juil. 2015)
 
 # Mes passions
 
